@@ -28,6 +28,10 @@ a {
 	color: #333;
 }
 
+.medium {
+    font-size: medium;
+}
+
 .keywords a {
 	color: #999;
 }
